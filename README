@@ -1,0 +1,9 @@
+The file for the CSS assignment is in the css_assignment directory.
+I opted to put the CSS in the html file since it was a static file and it
+may be easier to read. This normally would have been in an external file
+and linked via a <style> element.
+
+The files for the react assignment are in the react_assignment directory.
+You will need to install npm, node and create-react-app. Run create-react-app
+and replace the contents of the src directory with the contents of the
+provided directory. Run it with `npm start`.
